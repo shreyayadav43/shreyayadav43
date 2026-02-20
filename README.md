@@ -1,5 +1,13 @@
 ## Hi there 👋
+# Hi 👋 I'm Shreya
+🎓 M.C.A. Student  
+💻 MERN Stack Developer  
+🚀 Currently learning DSA  
 
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- React
+- Node.js
 <!--
 **shreyayadav43/shreyayadav43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

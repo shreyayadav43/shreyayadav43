@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi 👋 I'm Shreya
 🎓 M.C.A. Student  
 💻 MERN Stack Developer  
